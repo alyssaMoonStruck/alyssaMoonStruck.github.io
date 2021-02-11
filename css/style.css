@@ -37,6 +37,9 @@ body {
 .quiz {
   background-image: url("/images/qpic.jpg");
 }
+.ignite {
+  background-image: url("/images/rawg.jpg");
+}
 
 ::-moz-selection {
   background: #000;
