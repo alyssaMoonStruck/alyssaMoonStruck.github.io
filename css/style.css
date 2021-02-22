@@ -40,6 +40,9 @@ body {
 .ignite {
   background-image: url("/images/rawg.jpg");
 }
+.musicplayer {
+  background-image: url("/images/music3.jpg");
+}
 
 ::-moz-selection {
   background: #000;
